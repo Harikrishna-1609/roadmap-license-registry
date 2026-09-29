@@ -1,6 +1,10 @@
 {
-  "updated_at": "2026-09-29T05:44:31.364266+00:00",
-  "revoked_count": 0,
-  "revoked_signatures": [],
-  "revoked_uuids": []
+  "updated_at": "2026-09-29T06:28:05.136302+00:00",
+  "revoked_count": 1,
+  "revoked_signatures": [
+    "8HqdZhAy36NKjGURvznOXAVA9VfMa6iPxI2+MKD0kIQ="
+  ],
+  "revoked_uuids": [
+    "E53DB200-962C-11E3-A14A-A0481C8A3469"
+  ]
 }
