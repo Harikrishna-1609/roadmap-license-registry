@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "clientName": "Krishnaveni",
+    "expiryDate": "2027-03-31",
+    "machineUUID": "E53DB200-962C-11E3-A14A-A0481C8A3469",
+    "licenseKey": "S3Jpc2huYXZlbml8MjAyNy0wMy0zMXxFNTNEQjIwMC05NjJDLTExRTMtQTE0QS1BMDQ4MUM4QTM0Njl8OEhxZFpoQXkzNk5LakdVUnZ6bk9YQVZBOVZmTWE2aVB4STIrTUtEMGtJUT0=",
+    "status": "ACTIVE",
+    "issuedAt": "2026-09-28",
+    "revokedAt": null
+  }
+]
