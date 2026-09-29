@@ -8,5 +8,15 @@
     "status": "ACTIVE",
     "issuedAt": "2026-09-28",
     "revokedAt": null
+  },
+  {
+    "id": 2,
+    "clientName": "RoadMap-Admin",
+    "expiryDate": "2027-12-31",
+    "machineUUID": "2F84D04C-1EF8-11B2-A85C-F4494C3E10DB",
+    "licenseKey": "Um9hZE1hcC1BZG1pbnwyMDI3LTEyLTMxfDJGODREMDRDLTFFRjgtMTFCMi1BODVDLUY0NDk0QzNFMTBEQnxJbDVNdWViSkpzN29YKzJFWEJSb3V5a2xlZGtsRFFEc0dCdkpsR0R5S0k4PQ==",
+    "status": "ACTIVE",
+    "issuedAt": "2026-09-28",
+    "revokedAt": null
   }
 ]
