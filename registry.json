@@ -18,5 +18,15 @@
     "status": "ACTIVE",
     "issuedAt": "2026-09-28",
     "revokedAt": null
+  },
+  {
+    "id": 3,
+    "clientName": "SUBASREE",
+    "expiryDate": "2027-10-06",
+    "machineUUID": "62608800-4217-11E1-0000-082E5F28179D",
+    "licenseKey": "U1VCQVNSRUV8MjAyNy0xMC0wNnw2MjYwODgwMC00MjE3LTExRTEtMDAwMC0wODJFNUYyODE3OUR8dnhGTzFocTM0R3FGeGYxeU9wcS9rMndNVC9ZNzY5cktDZjE2bEx1cFhwTT0=",
+    "status": "ACTIVE",
+    "issuedAt": "2026-10-06",
+    "revokedAt": null
   }
 ]
