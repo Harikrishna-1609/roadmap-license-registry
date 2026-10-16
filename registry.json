@@ -28,5 +28,15 @@
     "status": "ACTIVE",
     "issuedAt": "2026-10-06",
     "revokedAt": null
+  },
+  {
+    "id": 4,
+    "clientName": "PRIYADHARSHINI V",
+    "expiryDate": "2027-10-16",
+    "machineUUID": "MAC-C8-5B-76-03-4A-99",
+    "licenseKey": "UFJJWUFESEFSU0hJTkkgVnwyMDI3LTEwLTE2fE1BQy1DOC01Qi03Ni0wMy00QS05OXwrVmFPSW1pWjBGZUFJSEFOUGlqRFF2dXIyaTMyTUFIdVhpRW5PWk5XRm5nPQ==",
+    "status": "ACTIVE",
+    "issuedAt": "2026-10-16",
+    "revokedAt": null
   }
 ]
