@@ -38,5 +38,15 @@
     "status": "ACTIVE",
     "issuedAt": "2026-10-16",
     "revokedAt": null
+  },
+  {
+    "id": 5,
+    "clientName": "HK JENKINS",
+    "expiryDate": "2027-10-16",
+    "machineUUID": "61B44A00-D50E-11E2-AFD7-7446A08E0F9C",
+    "licenseKey": "SEsgSkVOS0lOU3wyMDI3LTEwLTE2fDYxQjQ0QTAwLUQ1MEUtMTFFMi1BRkQ3LTc0NDZBMDhFMEY5Q3xMQVU3Sk5VaEluQ2p0d2JjNzZYNndjNU81UHJOb2o5cHdjcTVWUGZJN0p3PQ==",
+    "status": "ACTIVE",
+    "issuedAt": "2026-10-16",
+    "revokedAt": null
   }
 ]
